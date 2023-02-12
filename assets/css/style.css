@@ -1,0 +1,35 @@
+html{
+	background-color: Aquamarine;
+	font-size: 14px;
+	max-width: 100%;
+	}
+
+h1{
+	font-size:1.6rem;
+}
+h2{
+	font-size:1.6rem;
+}
+
+#page{
+	margin-left:auto;
+	margin-right: auto;
+	width: 75%;
+	background-color: white;
+	border: solid indigo;
+	border-width: 6px;
+	padding: 20px;
+}
+
+.entête{
+	text-align: center;
+}
+
+.aboutme{
+	
+}
+
+footer{
+	text-align: center;
+}
+	
